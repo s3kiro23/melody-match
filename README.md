@@ -9,5 +9,5 @@ Utilisation d'un filtrage collaboratif pour recommander des musiques similaires 
 ### Setup
 
     poetry install
-    poetry run python3 manage.py get_dataframe.py
+    poetry run python get_dataframe.py
     poetry run streamlit run main.py  
